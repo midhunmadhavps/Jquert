@@ -1,0 +1,69 @@
+
+.cont
+{
+margin-top:5%;
+background: rgba(0, 0, 0, 0.3);
+
+
+
+}
+body
+{
+background-image:url('bb.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+/* .frm
+{
+	background:white;
+	
+} */
+/* .mal */
+/* { */
+	/* font-size:40px; */
+	/* font-weight:bold; */
+	/* font-weight:bold; */
+	/* font-family:cursive; */
+/* } */
+
+
+.leg
+{
+	font-family:cursive;
+	font-style: italic;
+	font-size:50px;
+	background: -webkit-linear-gradient(#ffffcc,#00ffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+
+}
+ .fel
+ {
+	 border:3px solid white;
+	
+ }
+ .height
+ {
+	height:30%;
+ }
+ .form-group.required .control-label:after { 
+   content:"*";
+   color:red;
+}
+input[type=text],select,::placeholder
+{
+	border:none;
+	font-family:'Times New Roman', Times, serif;
+	font-style: italic;
+}
+label{
+	color:whitesmoke;
+    font-style: italic;
+	font-weight:bold;
+
+}
+h5{
+	font-style:italic;
+	
+}
